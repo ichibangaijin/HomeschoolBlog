@@ -6,7 +6,6 @@ bgimage:
 ---
 Meet the wonderful teachers of Hackingtons.  All teachers support the online program in addition to the in class lessons.
 
-## Meet the Teachers of Hackingtons
 -----
 
 
@@ -38,6 +37,10 @@ Tom is a freelance coder by day, and instructor by night.
 # Pleasant Hill Instructor:  Phillbert Cheng
 <img width="200" src="/images/avatars/phill.png"><br>
 Phillbert is a trained full stack coder.
+
+# Pleasant Hill Instructor:  Alfonso Hernandez
+<img width="200" src="/images/avatars/alfonso.jpg"><br>
+Alfonso is a university student majoring in computer science.
 
 # Support Manager:  Hiromi
 <img width="200" src="/images/avatars/hiromi.png"><br>
