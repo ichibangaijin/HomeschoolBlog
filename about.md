@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About our program
 permalink: /about/
 ---
+
+## About Us
 
 Hackingtons LLC teaches professional-level coding skills to kids. We also encourage positive interaction between classmates. And most importantly, we launch our code to the web, for millions to see.
 
