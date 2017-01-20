@@ -4,7 +4,7 @@ title: Meet the Instructors
 author: Matthew Highland
 bgimage: 
 ---
-Meet the wonderful teachers of Hackingtons.  All teachers support the online program in addition to the inclass lessons.
+Meet the wonderful teachers of Hackingtons.  All teachers support the online program in addition to the in class lessons.
 
 ## Meet the Teachers of Hackingtons
 -----
