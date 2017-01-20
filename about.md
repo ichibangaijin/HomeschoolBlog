@@ -4,7 +4,7 @@ title: About our program
 permalink: /about/
 ---
 
-Hackingtons teaches professional-level coding skills to kids. We also encourage positive interaction between classmates. And most importantly, we launch our code to the web, for millions to see.
+Hackingtons LLC teaches professional-level coding skills to kids. We also encourage positive interaction between classmates. And most importantly, we launch our code to the web, for millions to see.
 
 Our program is designed for all levels of students, from beginner to advanced. Our curriculum is project-based and everyone progresses at their own speed.
 
