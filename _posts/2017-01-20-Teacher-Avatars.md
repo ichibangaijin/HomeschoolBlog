@@ -4,7 +4,7 @@ title: Meet the Instructors
 author: Matthew Highland
 bgimage: 
 ---
-
+Meet the wonderful teachers of Hackingtons.  All teachers support the online program in addition to the inclass lessons.
 
 ## Meet the Teachers of Hackingtons
 -----
@@ -17,6 +17,7 @@ Fatima is a college student with a love for coding.
 # Danville Instructor:  Peter Ochs
 <img width="200" src="/images/avatars/peter.jpg"><br>
 Peter codes financial software during the day.
+
 
 # Folsom Instructor:  David Keller
 <img width="200" src="/images/avatars/david.png"><br>
