@@ -39,7 +39,7 @@ Tom is a freelance coder by day, and instructor by night.
 Phillbert is a trained full stack coder.
 
 # Pleasant Hill Instructor:  Alfonso Hernandez
-<img width="200" src="/images/avatars/alfonso.jpg"><br>
+<img width="200" src="/images/avatars/alfonso.png"><br>
 Alfonso is a university student majoring in computer science.
 
 # Support Manager:  Hiromi
