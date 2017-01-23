@@ -1,24 +1,35 @@
+- date: January 20th 2017
+  id1: 200434832
+  id2: f7e9f06cb1
+  topics: 'Topics: Background-attachment, transparency, min-height'
+  featured: 'Featured Developers: AmarM, SophiaM'
+
 - date: January 19th 2017
   id1: 200395438
   id2: 97b32d6e8d
   topics: 'Topics: Background-attachment, transparency, min-height'
+  featured: 'Featured Developers: Maxwell'
 
 - date: January 17th 2017
   id1: 199930047
   id2: a6a092573b
   topics: 'Topics: Boundaries in JS hint, lap runner in Scratch, background-size: cover'
+  featured: 'Featured Developers: LucasY'
 
 - date: January 13th 2017
   id1: 199712826
   id2: c32efc7cab
   topics: 'Topics: Smooth movement in Scratch, background color, for loops'
+  featured: 'Featured Developers: N/A'
 
 - date: January 12th 2017
   id1: 199394365
   id2: 409d03b7e8
   topics: 'Topics: Increase size of embedded Scratch game, gifs as background for buttons, text-shadow'
+  featured: 'Featured Developers: N/A'
 
 - date: January 10th 2017
   id1: 199707459
   id2: 359fbfcb11
   topics: 'Topics: this.innerHTML example, Scracth black belt example'
+  featured: 'Featured Developers: N/A'
