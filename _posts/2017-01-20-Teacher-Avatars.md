@@ -30,7 +30,7 @@ Don is a freelance web developer.
 <img width="200" src="/images/avatars/steven.png"><br>
 Steven creates the YouTube Live and Best of Hackingtons videos.
 
-# Roseville Instructor:  Tom Frye
+# Rocklin Instructor:  Tom Frye
 <img width="200" src="/images/avatars/tom.png"><br>
 Tom is a freelance coder by day, and instructor by night.
 
