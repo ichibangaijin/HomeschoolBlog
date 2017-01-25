@@ -703,8 +703,16 @@ code {
   color: #ED1C24;
 }
 
+.post-heading h1 {
+  text-shadow: 1px 1px 1px black;
+}
+.post-heading span {
+  background: rgba(51, 51, 51, 0.4);
+  padding: 10px;
+}
 .post-heading a {
   color: #ED1C24;
+  color: #3aede6;
 }
 .post-heading a:hover {
   color: #ED1C24;

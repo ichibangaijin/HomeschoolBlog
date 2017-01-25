@@ -28,8 +28,18 @@
  }
  
  .post-heading {
+	 			h1{
+					text-shadow: 1px 1px 1px black;	
+	       }
+	 
+	      span{
+			    background:rgba(51, 51, 51, 0.4);	
+					padding:10px;
+	       }
+	
         a {
          color: $red;
+					color:#3aede6;
          &:hover{
            color: #ED1C24;
          }
