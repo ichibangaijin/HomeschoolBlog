@@ -47,7 +47,7 @@ Meet the wonderful teachers of Hackingtons.  All teachers support the online pro
 
 <div class="teacher">
 <img width="200" src="/images/avatars/peter.jpg"><br>
-<h2>Peter Ocks</h2>
+<h2>Peter Ochs</h2>
 <h3>Danville Instructor</h3>
 <p>Peter codes financial software during the day. </p>
 </div>
