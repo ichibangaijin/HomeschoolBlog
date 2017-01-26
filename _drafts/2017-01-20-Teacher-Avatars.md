@@ -8,48 +8,104 @@ Meet the wonderful teachers of Hackingtons.  All teachers support the online pro
 
 -----
 
+<style>
+	.teacher{
+		width: 300px;
+		display: inline-block;
+		padding: 10px;
+		text-align: center;
+		margin-right: 50px;
+	}
 
-# Danville Instructor:  Fatima Khan
+	.teacher img{
+		border-radius: 100px;
+	}
+
+	.teacher h2{
+		font-size: 18px;
+	}
+
+	.teacher h3{
+		margin-top: -20px;
+		font-size: 15px;
+		font-weight: 500;
+		color: rgb(44, 236, 217);
+	}
+
+	.teacher p{
+		font-size: 15px;
+		font-weight: 400;
+	}
+</style>
+
+<div class="teacher">
 <img width="200" src="/images/avatars/fatima.png"><br>
-Fatima is a college student with a love for coding. 
+<h2>Fatima Khan</h2>
+<h3>Danville Instructor</h3>
+<p>Fatima is a college student with a love for coding. </p>
+</div>
 
-# Danville Instructor:  Peter Ochs
+<div class="teacher">
 <img width="200" src="/images/avatars/peter.jpg"><br>
-Peter codes financial software during the day.
+<h2>Peter Ochs</h2>
+<h3>Danville Instructor</h3>
+<p>Peter codes financial software during the day. </p>
+</div>
 
-
-# Folsom Instructor:  David Keller
+<div class="teacher">
 <img width="200" src="/images/avatars/david.png"><br>
-David brings his coding experience from Microsoft and Zillow to his classroom.
+<h2>David Keller</h2>
+<h3>El Dorado Hills Instructor</h3>
+<p>David brings his coding experience from Microsoft and Zillow to his classroom. </p>
+</div>
 
-# El Dorado Hills Instructor:  Don Huntley
+<div class="teacher">
 <img width="200" src="/images/avatars/donald.png"><br>
-Don is a freelance web developer. 
-
-# Roseville Instructor:  Steven Croft
+<h2>Don Huntley</h2>
+<h3>Folsom Instructor</h3>
+<p>Don is a freelance web developer. </p>
+</div>
+ 
+<div class="teacher">
 <img width="200" src="/images/avatars/steven.png"><br>
-Steven creates the YouTube Live and Best of Hackingtons videos.
+<h2>Steven Croft</h2>
+<h3>Roseville Instructor</h3>
+<p>Steven creates the YouTube Live and Best of Hackingtons videos.</p>
+</div>
 
-# Rocklin Instructor:  Tom Frye
+<div class="teacher">
 <img width="200" src="/images/avatars/tom.png"><br>
-Tom is a freelance coder by day, and instructor by night.
+<h2>Tom Frye</h2>
+<h3>Rocklin Instructor</h3>
+<p>Tom is a freelance coder by day, and instructor by night.</p>
+</div>
 
-# Pleasant Hill Instructor:  Phillbert Cheng
+<div class="teacher">
 <img width="200" src="/images/avatars/phill.png"><br>
-Phillbert is a trained full stack coder.
+<h2>Phillbert Cheng</h2>
+<h3>Pleasant Hill Instructor</h3>
+<p>Phillbert is a trained full stack coder.</p>
+</div>
 
-# Fremont Instructor:  Alfonso Hernandez
+<div class="teacher">
 <img width="200" src="/images/avatars/alfonso.png"><br>
-Alfonso is a university student majoring in computer science.
+<h2>Alfonso Hernandez</h2>
+<h3>Fremont Instructor</h3>
+<p>Alfonso is a university student majoring in computer science.</p>
+</div>
 
-# Support Manager:  Hiromi
+<div class="teacher">
 <img width="200" src="/images/avatars/hiromi.png"><br>
-Hiromi handles scheduling and billing. 
+<h2>Hiromi</h2>
+<h3>Support Manager</h3>
+<p>Hiromi handles scheduling and billing.</p>
+</div>
 
-# Founder:  Matt Highland
+<div class="teacher">
 <img width="200" src="/images/avatars/matt.png"><br>
-Former 5th Grade School Teacher.
-
-
+<h2>Matt Highland</h2>
+<h3>Founder</h3>
+<p>Former 5th Grade School Teacher.</p>
+</div>
 
 # Happy Coding!
