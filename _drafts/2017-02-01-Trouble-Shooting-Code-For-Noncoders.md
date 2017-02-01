@@ -15,10 +15,10 @@ Often the simplest and quickest fix is just to check the spelling on the page. P
 
 To go along with this make sure there are spaces where they need to be. The most common one to see is inside the img tag <code><img src="imageName.png" width="300"></code>. Students often forget the space before the word width. This is key to the code funcitoning.
 
-### Tip #2: Make Sure Each Bracket has a Matching Bracket 
+### Tip #2: Make Sure File Names are Accurate
+The spell check extends to file names, like the name of the images used in the page. When the image is saved off of the internet the names are often long and complicated or just named download(1).jpg or the like. These file names have to be replicated exactly when typing them in the code. The biggest problem is that spaces, special characters, and the like can cause some problems. If there is a space in the name you will see %20 in the file name inside the code. This wont inherently cause problems but it is easier to check spelling if there are now spaces in the file name. Special characters like ( ) also cause problems when the site tries to render the image. The easiest way to avoid all of these problems is to use camel case when naming files. Camel case looks like this: thisIsCamelCase. The first letter of the file is lowercase but each subsequent word is capatalized without any any spaces. This eliminates any problems you might run into with file names. 
 
-
-### Tip #3: Make Sure File Names are Accurate
+### Tip #3: Make Sure Each Bracket has a Matching Bracket 
 
 
 ### Tip #4: Check for Tags Inside Tags
