@@ -26,9 +26,9 @@ Tags should be outside of other tags. Nested tags, or tags inside tags, don't co
 
 
 ### Tip #5: Check Where the Files are Stored
-
+If they are coding in Thimble this is not too big of an issue. As long as they have the file dragged into Thimble it is part of the file system and they can use it. However if they are coding in Brackets it gets a bit more complicated. Brackets does not have an internal file system like Thimble, it uses the folder system. Which means if there are any files, such as pictures, they have to be in the same folder that the student is coding in. If they are not in the folder Brackets has no idea that it exists and wont be able to use it.
 
 ### Bonus Tip: Post the code to the Help! Forum on app.hackingtons.com
-
+If all else fails, which it does sometimes, post a link to the project on the Help! tab inside of app.hackingtons.com. The teachers of Hackingtons all review that tab and answer questions daily. We can take a look directly at the code and see what went wrong. If the student would like a more conversation style explanation come hang out with us during our live stream every Tuesday, Thursday, and Friday at 3:30pm. Here we answer questions, do live coding demos and interact with students through the chat. That way they can ask follow-up questions and get feedback right away.
 
 # Happy Coding!
