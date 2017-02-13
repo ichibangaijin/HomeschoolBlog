@@ -1,3 +1,15 @@
+- date: February 10th 2017
+  id1: 203883388
+  id2: 87a6be285e
+  topics: 'Topics: Creating a slide show with JavaScript'
+  featured: 'Featured Developers: Ava'
+
+- date: February 9th 2017
+  id1: 203511350
+  id2: 9152d8c901
+  topics: 'Topics: Smooth movement in scratch, fixing array cycling, and custom'
+  featured: 'Featured Developers: Ava, Vishrit, JayC and LoganM'
+
 - date: February 7th 2017
   id1: 203206441
   id2: 9ac297334e
