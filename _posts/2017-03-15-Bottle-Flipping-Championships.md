@@ -24,9 +24,9 @@ Matt Highland, the founder of Hackingtons, and even grand marshal puts 2 minutes
 
 The final standings: 
 
-# First Place: Zy
-# Second Place: Carson
-# Third Place: Max
+### First Place: Zy
+### Second Place: Carson
+### Third Place: Max
 
 
 Was this the greatest event in the history of the world?  Possibly.
