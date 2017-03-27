@@ -4,8 +4,9 @@ title: Basic Minecraft Server
 author: Matthew Highland
 bgimage: minecraft.jpg
 ---
-Join our basic Minecraft server and have fun building and avoiding creepers.  Watch our tutorial for installing Minecraft if it is your first time.
-Hackingtons basic Minecraft server address: hackingtons1.mcpro.co.
+Join our basic Minecraft server and have fun building and avoiding creepers.  Watch our tutorial for installing Minecraft if it is your first time.<br>
+Server #1:  hackingtons1.mcpro.co<br>
+Server #2:  hackingtons-standard.mcproco
 
 -----
 

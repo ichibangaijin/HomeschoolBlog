@@ -4,9 +4,9 @@ title: Pixelmon Server
 author: Matthew Highland
 bgimage: pixelmon.jpg
 ---
+Server Name:  hackingtons-pixelmon.mcpro.co<br>
 Pixelmon is an advanced Minecraft multiplayer game that adds Pokemon characters to Minecraft.
 Follow our guide to install the pixelmon mod prior to joining the server.
-Our server is hosted at: hackingtons2.mcpro.co
 
 -----
 
@@ -27,8 +27,12 @@ If this is your first time learning about Minecraft, I would suggest starting so
 ###  You will need to increase the memory to decrease lag in Pixelmon.
 
 Your computer memory for Minecraft is usually set up with 1gb and 128mb.  This is fine for normal Minecraft, but super laggy in Pixelmon.
-Hopefully your computer has an extra 2gb of RAM available.  Following the picture below to increase Minecraft RAM to 2gb and 256mb.  <a href="https://youtu.be/2ev7AatHhiQ" target="_blank">If its too confusing, here is a YouTube video explaining the entire process.</a>
+Hopefully your computer has an extra 2gb of RAM available.  Following the picture below to increase Minecraft RAM to 2gb and 256mb.  <a href="https://youtu.be/2ev7AatHhiQ" target="_blank">If its too confusing, Click HERE for a YouTube video explaining the entire process.</a>
 
-<img src="/images/pixelmonLag.jpg">
+<img src="/images/pixelmonLag.jpg" width="100%">
+
+### March 25th Update!  Minecraft updated the look of their launcher! Don't worry, it is still the same process as above to eliminate lag.
+
+<img src="/images/Screen%20Shot%202017-03-26%20at%209.51.22%20PM.png">
 
 ##  Have fun Pixelmoning!
